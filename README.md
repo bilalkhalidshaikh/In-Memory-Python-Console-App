@@ -8,6 +8,17 @@ The goal of Phase I is to build the foundational Todo system without persistent 
 
 ---
 
+## Official Hackathon Specification
+
+This implementation strictly follows the official Hackathon II specification document provided by the organizers:
+
+**Hackathon Document (Source Requirements):**
+[https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?tab=t.0](https://docs.google.com/document/d/1KHxeDNnqG9uew-rEabQc5H8u3VmEN3OaJ_A1ZVVr9vY/edit?tab=t.0)
+
+All requirements, workflows, deliverables, and development constraints defined in the above document were followed while implementing Phase I.
+
+---
+
 ## Phase Objective
 
 Build a command-line Todo application that:
